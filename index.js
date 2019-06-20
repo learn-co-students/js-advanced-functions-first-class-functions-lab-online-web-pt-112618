@@ -1,1 +1,3 @@
-// Code your solution in this file!
+let returnFirstTwoDrivers = function(driversArray) {
+	return driversArray.slice(0,2)
+}
